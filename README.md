@@ -38,6 +38,7 @@
 # Com tecnologias como: 
 - HTML, 
 - CSS, 
+- MATERIALIZE,
 - JAVASCRIPT, 
 - PHP,
 - LARAVEL 7.4.
