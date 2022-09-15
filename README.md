@@ -35,7 +35,11 @@
 
 # Se trata de um sistema chamado mapa presencial para controle de entrada e saída de alunos bem como visitantes na instituição.
 
-# Com tecnologias como HTML, CSS, JAVASCRIPT, LARAVEL 7.4.
+# Com tecnologias como: 
+- HTML, 
+- CSS, 
+- JAVASCRIPT, 
+- LARAVEL 7.4.
 
 
 
