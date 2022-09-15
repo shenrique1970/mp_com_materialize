@@ -39,6 +39,7 @@
 - HTML, 
 - CSS, 
 - JAVASCRIPT, 
+- PHP,
 - LARAVEL 7.4.
 
 
