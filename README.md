@@ -33,7 +33,7 @@
 
 # Trabalho final do curso tecnico em informática para internet. Faetec Volta Redonda - RJ
 
-# Se trata de um sistema chamado mapa presencial para controle de entrada e saída de alunos bem como visitantes na instituição.
+## Se trata de um sistema chamado mapa presencial para controle de entrada e saída de alunos bem como visitantes na instituição.
 
 # Com tecnologias como: 
 - HTML, 
